@@ -109,6 +109,7 @@ class MyApp extends StatelessWidget {
                   elevation: 0.0,
                   systemOverlayStyle: SystemUiOverlayStyle(
                     //لون ال statusBar
+                    // Done
                     statusBarColor:  Colors.transparent,
                     // لون ايكونات ال statusBar
                     statusBarIconBrightness: Brightness.light,
